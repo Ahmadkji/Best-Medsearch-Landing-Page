@@ -1,0 +1,8 @@
+{
+  "name": "MediSummary Landing Page",
+  "description": "A high-fidelity recreation of the MediSummary medical research summarization landing page, featuring a clean, professional medical-themed UI with Tailwind CSS.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
